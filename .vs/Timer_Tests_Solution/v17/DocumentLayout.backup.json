@@ -113,6 +113,16 @@
               "WhenOpened": "2024-08-20T23:14:55.232Z"
             }
           ]
+        },
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
         }
       ]
     }

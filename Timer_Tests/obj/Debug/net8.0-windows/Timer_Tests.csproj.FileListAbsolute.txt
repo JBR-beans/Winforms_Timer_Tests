@@ -16,3 +16,4 @@ D:\Code Repo\Timer_Tests_Solution\Timer_Tests\obj\Debug\net8.0-windows\Timer_Tes
 D:\Code Repo\Timer_Tests_Solution\Timer_Tests\obj\Debug\net8.0-windows\Timer_Tests.genruntimeconfig.cache
 D:\Code Repo\Timer_Tests_Solution\Timer_Tests\obj\Debug\net8.0-windows\ref\Timer_Tests.dll
 D:\Code Repo\Timer_Tests_Solution\Timer_Tests\obj\Debug\net8.0-windows\Timer_Tests.Timer_2.resources
+D:\Code Repo\Timer_Tests_Solution\Timer_Tests\obj\Debug\net8.0-windows\Timer_Tests.sourcelink.json
